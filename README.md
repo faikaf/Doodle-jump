@@ -43,7 +43,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/your-username/doodle-jump-clone.git
+git clone https://github.com/faikaf/doodle-jump.git
 
 Open the project directory:
 
