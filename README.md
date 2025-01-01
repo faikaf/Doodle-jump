@@ -20,15 +20,15 @@ Features:
 
 Gameplay Instructions
 
-1.Use the Arrow Keys or WASD keys to move the doodler left or right.
+  1.Use the Arrow Keys or WASD keys to move the doodler left or right.
 
-2.Jump on platforms to keep moving upward.
+  2.Jump on platforms to keep moving upward.
 
-3.Avoid enemies; colliding with one ends the game.
+  3.Avoid enemies; colliding with one ends the game.
 
-4.Try to beat your high score!
+  4.Try to beat your high score!
 
-5.To restart the game after a game over, press Spacebar.
+  5.To restart the game after a game over, press Spacebar.
 
 
 How to Run the Game
@@ -95,9 +95,9 @@ The high score can be reset by modifying the code to call the resetHighScore() f
 
 Controls:
 
-Arrow Right / D: Move right.
+  Arrow Right / D: Move right.
 
-Arrow Left / A: Move left.
+  Arrow Left / A: Move left.
 
 
 Spacebar: Restart the game after a game over.
@@ -126,5 +126,5 @@ Assets:
 
 Acknowledgments
 
-This game was created as a learning project, inspired by the original Doodle Jump game. Thanks to all open-source contributors who make such projects possible!
+  This game was created as a learning project, inspired by the original Doodle Jump game. Thanks to all open-source contributors who make such projects possible!
 
