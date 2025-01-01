@@ -5,19 +5,30 @@ This repository contains a simple browser-based game inspired by the classic Doo
 Features
 
 1.Dynamic Platforms: Platforms move downward as the doodler progresses upward.
+
 2.Enemy Obstacles: Enemies appear on platforms after a certain score threshold and move horizontally to increase difficulty.
+
 3.Scoring System: Tracks the current score and displays the highest score achieved.
+
 4.Physics Engine: Implements gravity and collision detection for realistic movements.
+
 5.Sound Effects: Includes background music, jump sound effects, and a game-over sound.
+
 6.Restart Option: Allows players to restart the game with a single key press.
+
 
 Gameplay Instructions
 
 1.Use the Arrow Keys or WASD keys to move the doodler left or right.
+
 2.Jump on platforms to keep moving upward.
+
 3.Avoid enemies; colliding with one ends the game.
+
 4.Try to beat your high score!
+
 5.To restart the game after a game over, press Spacebar.
+
 
 How to Run the Game
 
