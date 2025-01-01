@@ -128,3 +128,6 @@ Acknowledgments
 
   This game was created as a learning project, inspired by the original Doodle Jump game. Thanks to all open-source contributors who make such projects possible!
 
+![Screenshot (45)](https://github.com/user-attachments/assets/66ccb837-cc7b-409d-9034-efbe6afa3225)
+
+![Screenshot (47)](https://github.com/user-attachments/assets/d2c992b2-d613-4771-8aa2-a973b44b5725)
